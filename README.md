@@ -7,11 +7,11 @@ For these type of problems ML comes for help and reduce the risk of frauds and t
 
 Here ill be going through,
 
-Exploratory Data Analysis (EDA)
-Data Preprocessing
-Oversampling with SMOTE
-K-Neighbours Classifier
-Random Forest Classifier
-XGBoost Classifier
+Exploratory Data Analysis (EDA) ,
+Data Preprocessing,
+Oversampling with SMOTE,
+K-Neighbours Classifier,
+Random Forest Classifier,
+XGBoost Classifier,
 
 
